@@ -2,7 +2,7 @@
 
 [![Hello World!](assets/me.gif)](https://github.com/vukasinsec)
 
-[![Website](https://img.icons8.com/ios-filled/50/000000/internet.png)](https://vukasindobromirovic.com) &nbsp;
+[![My Skills](https://skillicons.dev/icons?i=redhat)](https://skillicons.dev)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vukasindobromirovic/) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:vukasin.reality@gmail.com?subject=Hello%20Jasper,%20From%20Github)
 
