@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**vukasinsec/vukasinsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Hello World!](assets/me.gif)](https://github.com/vukasinsec)
 
-Here are some ideas to get you started:
+[![Website](https://img.icons8.com/ios-filled/50/000000/internet.png)](https://vukasindobromirovic.com) &nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vukasindobromirovic/) &nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:vukasin.reality@gmail.com?subject=Hello%20Jasper,%20From%20Github)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+
+
+- 📚 Currently working towards my Bachelor degree in Computer Science
+- 🌐 I am interested in Cyber Security, Computer Science, Computer Networks
+- ☣ Interested in the blue team and took the specialties Digital Forensics, Security Operating Center, Malware Analysis
