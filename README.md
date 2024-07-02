@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Hello World!](assets/me.gif)](https://github.com/vukasinsec)
+[![Hello World!](assets/da.gif)](https://github.com/vukasinsec)
 
 [![My Skills](https://skillicons.dev/icons?i=redhat)](https://skillicons.dev)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vukasindobromirovic/) &nbsp;
